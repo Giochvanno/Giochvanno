@@ -45,16 +45,7 @@
 | [**Automated-Video-Pipeline**](https://github.com/Giochvanno/Automated-Video-Pipeline) | End-to-end pipeline for short-form videos: script → voiceover → rendering → composition |
 | [**ai-find-face**](https://github.com/Giochvanno/ai-find-face) | Real-time face recognition from a camera feed |
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Giochvanno&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giochvanno&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
-</p>
-
----
 
 ### 🌱 What I'm up to now
 
