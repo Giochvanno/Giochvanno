@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Arman 👋 <span>aka "Dream"</span></h1>
+<h1 align="center">Hi, I'm Arman 👋 <span>aka "Giochvanno"</span></h1>
 
 <p align="center">
   <b>18 y/o · AI major @ Pusan National University 🇰🇷 · Backend & AI developer in the making</b>
