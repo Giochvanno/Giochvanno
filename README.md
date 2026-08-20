@@ -1,13 +1,7 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Arman%20%22Dream%22&fontColor=ffffff&fontSize=48&desc=Backend%20%26%20AI%20Developer%20in%20the%20making&descSize=18&descAlignY=62" alt="header" />
-</p>
+<h1 align="center">Hi, I'm Arman 👋 <span>aka "Dream"</span></h1>
 
-<!-- Typing subtitle -->
 <p align="center">
-  <a href="https://github.com/Giochvanno">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2575FC&center=true&vCenter=true&width=520&lines=18+y%2Fo+%C2%B7+AI+major+%40+Pusan+National+University;Python+backend+%2B+applied+AI;Coding+since+13+%E2%9D%A4%EF%B8%8F" alt="typing" />
-  </a>
+  <b>18 y/o · AI major @ Pusan National University 🇰🇷 · Backend & AI developer in the making</b>
 </p>
 
 <p align="center">
@@ -94,7 +88,3 @@ Next up: a deployed **RAG / LLM-powered service** and more real-world automation
 ---
 
 <p align="center"><i>"i luv coding &lt;3"</i></p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer" alt="footer" />
-</p>
