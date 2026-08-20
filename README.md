@@ -12,7 +12,6 @@
 
 ### 🧠 About me
 
-<img align="right" width="330" src="https://github-readme-stats.vercel.app/api?username=Giochvanno&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
 
 - 🎓 Studying **Artificial Intelligence** at **Pusan National University**, South Korea 🇰🇷
 - 💻 Coding since **13** — started with **Arduino & robotics**, hooked ever since
@@ -63,20 +62,7 @@
 | [**Automated-Video-Pipeline**](https://github.com/Giochvanno/Automated-Video-Pipeline) | End-to-end pipeline for short-form videos: script → voiceover → rendering → composition |
 | [**ai-find-face**](https://github.com/Giochvanno/ai-find-face) | Real-time face recognition from a camera feed |
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giochvanno&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Giochvanno&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Giochvanno&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="trophies" />
-</p>
-
----
 
 ### 🌱 What I'm up to now
 
