@@ -57,7 +57,6 @@
 | --- | --- |
 | [**Advanced-ESF-to-1C-reconciler**](https://github.com/Giochvanno/Advanced-ESF-to-1C-reconciler) | Reconciles Kazakhstan ESF e-invoices against 1C accounting and reports every discrepancy — real-world business automation |
 | [**IronFuzzer**](https://github.com/Giochvanno/IronFuzzer) | Async AI-driven web security fuzzer using genetic algorithms to evolve payloads and study WAF bypass strategies |
-| [**Groq-PythonAPI-Client**](https://github.com/Giochvanno/Groq-PythonAPI-Client) | Context-aware AI client for the Groq API with secure config and solid error handling |
 | [**Excel-AggReconciler**](https://github.com/Giochvanno/Excel-AggReconciler) | Automated Excel reconciliation & data aggregation tool built with Pandas + CustomTkinter |
 | [**Automated-Video-Pipeline**](https://github.com/Giochvanno/Automated-Video-Pipeline) | End-to-end pipeline for short-form videos: script → voiceover → rendering → composition |
 | [**ai-find-face**](https://github.com/Giochvanno/ai-find-face) | Real-time face recognition from a camera feed |
